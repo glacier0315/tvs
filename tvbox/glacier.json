@@ -13,10 +13,6 @@
       "name": "🌟饭太硬"
     },
     {
-      "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-      "name": "❤️潇洒哥弹幕线路"
-    },
-    {
       "url": "http://www.mpanso.com/小米/DEMO.json",
       "name": "❤️小米线路"
     },
@@ -37,6 +33,22 @@
       "name": "🌵肥猫线路"
     },
     {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "🌵巧计线路"
+    },
+    {
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "name": "🌱影探线路"
+    },
+    {
+      "url": "http://dxawi.github.io/0/0.json",
+      "name": "🌱dxawi线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "❤️潇洒哥弹幕线路"
+    },
+    {
       "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
       "name": "🌵宝盒线路"
     },
@@ -48,10 +60,7 @@
       "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "name": "🌵FongMI线路"
     },
-    {
-      "url": "http://pandown.pro/tvbox/tvbox.json",
-      "name": "🌵巧计线路"
-    },
+
     {
       "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🌵高天流云js"
@@ -59,14 +68,6 @@
     {
       "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "🌵高天流云 XYQ"
-    },
-    {
-      "url": "http://www.lyyytv.cn/yt/yt.json",
-      "name": "🌱影探线路"
-    },
-    {
-      "url": "http://dxawi.github.io/0/0.json",
-      "name": "🌱dxawi线路"
     },
     {
       "url": "",
