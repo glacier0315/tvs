@@ -13,10 +13,6 @@
       "name": "🌟饭太硬"
     },
     {
-      "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-      "name": "❤️潇洒哥弹幕线路"
-    },
-    {
       "url": "http://ok213.top/tv",
       "name": "📺jack老师线路"
     },
@@ -37,28 +33,12 @@
       "name": "🌵肥猫线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
-      "name": "🌵宝盒线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
-      "name": "🌵香雅情线路"
-    },
-    {
       "url": "http://pandown.pro/tvbox/tvbox.json",
       "name": "🚀巧计线路"
     },
     {
       "url": "http://dxawi.github.io/0/0.json",
       "name": "🌱dxawi线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "name": "🎭jsm线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
-      "name": "🎭qist 0821线路"
     },
     {
       "url": "http://肥猫.com",
@@ -81,32 +61,12 @@
       "name": "🚀王二小"
     },
     {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-      "name": "🚀FongMI线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-      "name": "🚀香雅情"
-    },
-    {
       "url": "http://tv.nxog.top/m/",
       "name": "🚀欧歌K"
     },
     {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "🚀高天流云js"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "🚀高天流云 XYQ"
-    },
-    {
       "url": "http://www.lyyytv.cn/yt/yt.json",
       "name": "🚀影探线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🚀南风"
     },
     {
       "url": "https://www.wya6.cn/tv/yc.json",
@@ -183,6 +143,46 @@
     {
       "url": "",
       "name": "🔥🔥付费请退款举报投诉🔥🔥"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "❤️潇洒哥弹幕线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "name": "🌵宝盒线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
+      "name": "🌵香雅情线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "name": "🎭jsm线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+      "name": "🎭qist 0821线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "name": "🚀FongMI线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "🚀香雅情"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "🚀高天流云js"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "🚀高天流云 XYQ"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "🚀南风"
     }
   ]
 }
